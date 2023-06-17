@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body, html {
+    padding:10px;
+    background-color: #f3f3f3;
+}
+
+@media (prefers-color-scheme: dark) {
+    body, html {
+        background-color: rgb(3,7,18);
+    }
+}
