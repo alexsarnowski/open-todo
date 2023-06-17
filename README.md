@@ -5,7 +5,7 @@ OpenTodo can be used for simply tracking your tasks, or (for most cases) use the
 ## Dependencies?
 - vite:4.3.9
 - tailwindcss:3.3.2
-- react:8.2.0
+- react:18.2.0
 ## Dark Mode Support
 Both light and dark modes are supported. Dark mode will automatically be enabled depending on system settings.
 
