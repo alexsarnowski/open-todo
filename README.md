@@ -9,4 +9,4 @@ OpenTodo can be used for simply tracking your tasks, or (for most cases) use the
 ## Dark Mode Support
 Both light and dark modes are supported. Dark mode will automatically be enabled depending on system settings.
 
-<img src="https://github.com/alexsarnowski/open-todo/assets/7003876/3dd40a12-f7e6-4fb8-aa91-1fcb78e8d5ad" width="481" height="284"><img src="https://github.com/alexsarnowski/open-todo/assets/7003876/20b449f4-3ddc-44e5-b0f4-73256ce743fa" width="481" height="284">
+<img src="https://github.com/alexsarnowski/open-todo/assets/7003876/040e2e8a-f626-4fa1-9b18-76e9f21e6988" width="481" height="284"><img src="https://github.com/alexsarnowski/open-todo/assets/7003876/1cbaf5e9-64d1-480c-a5d6-cfb51f51c017" width="481" height="284">
